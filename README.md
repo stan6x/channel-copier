@@ -14,5 +14,5 @@ A simple script for copying telegram channels
 
 ### Launch
 ```
-python main.py
+python3 main.py
 ```
